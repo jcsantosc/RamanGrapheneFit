@@ -7,4 +7,6 @@ The code has two optional input parameters:
 •	smoothness_param: This parameter controls the smoothness of the baseline. The default value is 1e3.
 •	min_diff: This parameter controls the minimum difference between two successive baseline points. The default value is 1e-6.
 The code outputs a nx2 double labeled as 'parseddata' containing the baselined data. It also outputs the peak intensities, locations, and half-widths at half-maximum for each peak.
+
+
 ![Celular Networks](https://github.com/jcsantosc/RamanGrapheneFit/assets/144960910/d42abc7f-2fe7-43ea-9b74-e27e43a3faa6)
